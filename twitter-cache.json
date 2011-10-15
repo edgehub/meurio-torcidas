@@ -1,7 +1,1 @@
-{
-	"flamengo":"5",
-	"fluminense":"5",
-	"botafogo":"5",
-	"fluminense":"5",
-	"lastId":"0"	
-}
+{"flamengo":{"count":3,"last_id":"124944417554567169"},"fluminense":{"count":0,"last_id":"125028409511391232"},"vasco":{"count":1,"last_id":"125028382625890305"},"botafogo":{"count":2,"last_id":"125023222767960064"}}

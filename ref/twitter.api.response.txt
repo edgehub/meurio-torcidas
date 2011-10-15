@@ -1,0 +1,113 @@
+
+$timeline->results
+
+Array
+(
+    [0] => stdClass Object
+        (
+            [created_at] => Sat, 15 Oct 2011 01:40:33 +0000
+            [from_user] => MarlusAraujo
+            [from_user_id] => 424304282
+            [from_user_id_str] => 424304282
+            [geo] => 
+            [id] => 1.25023222768E+17
+            [id_str] => 125023222767960064
+            [iso_language_code] => pt
+            [metadata] => stdClass Object
+                (
+                    [result_type] => recent
+                )
+
+            [profile_image_url] => http://a3.twimg.com/sticky/default_profile_images/default_profile_0_normal.png
+            [source] => &lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;
+            [text] => MeuRioéBota!
+            [to_user_id] => 
+            [to_user_id_str] => 
+        )
+
+    [1] => stdClass Object
+        (
+            [created_at] => Sat, 15 Oct 2011 01:40:14 +0000
+            [from_user] => MarlusAraujo
+            [from_user_id] => 424304282
+            [from_user_id_str] => 424304282
+            [geo] => 
+            [id] => 1.25023141994E+17
+            [id_str] => 125023141994041344
+            [iso_language_code] => pt
+            [metadata] => stdClass Object
+                (
+                    [result_type] => recent
+                )
+
+            [profile_image_url] => http://a3.twimg.com/sticky/default_profile_images/default_profile_0_normal.png
+            [source] => &lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;
+            [text] => MeuRioéFogo
+            [to_user_id] => 
+            [to_user_id_str] => 
+        )
+
+)
+
+$timeline
+
+stdClass Object
+(
+    [completed_in] => 0.162
+    [max_id] => 1.25023222768E+17
+    [max_id_str] => 125023222767960064
+    [page] => 1
+    [query] => MeuRio%C3%89Bota+OR+MeuRIoEBota+OR+MeuRio%C3%89Fogo+OR+MeuRIoEFogo+OR+MeuRio%C3%89Botafogo+OR+MeuRIoEBotafogo
+    [refresh_url] => ?since_id=125023222767960064&q=MeuRio%C3%89Bota%20OR%20MeuRIoEBota%20OR%20MeuRio%C3%89Fogo%20OR%20MeuRIoEFogo%20OR%20MeuRio%C3%89Botafogo%20OR%20MeuRIoEBotafogo
+    [results] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [created_at] => Sat, 15 Oct 2011 01:40:33 +0000
+                    [from_user] => MarlusAraujo
+                    [from_user_id] => 424304282
+                    [from_user_id_str] => 424304282
+                    [geo] => 
+                    [id] => 1.25023222768E+17
+                    [id_str] => 125023222767960064
+                    [iso_language_code] => pt
+                    [metadata] => stdClass Object
+                        (
+                            [result_type] => recent
+                        )
+
+                    [profile_image_url] => http://a3.twimg.com/sticky/default_profile_images/default_profile_0_normal.png
+                    [source] => &lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;
+                    [text] => MeuRioéBota!
+                    [to_user_id] => 
+                    [to_user_id_str] => 
+                )
+
+            [1] => stdClass Object
+                (
+                    [created_at] => Sat, 15 Oct 2011 01:40:14 +0000
+                    [from_user] => MarlusAraujo
+                    [from_user_id] => 424304282
+                    [from_user_id_str] => 424304282
+                    [geo] => 
+                    [id] => 1.25023141994E+17
+                    [id_str] => 125023141994041344
+                    [iso_language_code] => pt
+                    [metadata] => stdClass Object
+                        (
+                            [result_type] => recent
+                        )
+
+                    [profile_image_url] => http://a3.twimg.com/sticky/default_profile_images/default_profile_0_normal.png
+                    [source] => &lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;
+                    [text] => MeuRioéFogo
+                    [to_user_id] => 
+                    [to_user_id_str] => 
+                )
+
+        )
+
+    [results_per_page] => 15
+    [since_id] => 0
+    [since_id_str] => 0
+)
